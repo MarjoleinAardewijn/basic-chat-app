@@ -1,7 +1,7 @@
 # Real-Time Web @cmda-minor-web · 2019-2020 Basic Chat App
 
 <p align="center">
-  <a href="">
+  <a href="https://fathomless-ravine-79514.herokuapp.com/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="Demo">
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ Go via the terminal to the folder you want the project to be placed:
 Clone the repository and go to the project folder:
 
 ```
-    git clone https://github.com/MarjoleinAardewijn/real-time-web-1920.git && cd real-time-web-1920
+    git clone https://github.com/MarjoleinAardewijn/basic-chat-app.git && cd basic-chat-app
 ```
 
 After cloning the project go to the docs folder:
