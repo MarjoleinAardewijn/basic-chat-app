@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="Demo">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MarjoleinAardewijn/real-time-web-1920/blob/master/LICENSE.txt">
+  <a href="https://github.com/MarjoleinAardewijn/basic-chat-app/blob/master/LICENSE.md">
     <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="License">
   </a>
 </p>
