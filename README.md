@@ -143,7 +143,7 @@ The special events used in the app are:
 - `user left`: shows a message that a user left the chat and how many participants remained in the chat.
 - `typing`: shows a message that a user is typing
 - `stop typing`: removes the message that a user is typing
-- `new message`: shows a new message and checks if the user used a shortcut. If the user did use a shortcut only the message behind the shortcut is visible for all other users and the shortcut message is also visible for the user who send it.
+- `new message`: shows a new chat message with username and time the message is send. And checks if the user used a shortcut. If the user did use a shortcut only the message behind the shortcut is visible for all other users and the shortcut message is also visible for the user who send it.
 
 ## Sources
 
