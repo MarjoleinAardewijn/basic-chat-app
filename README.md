@@ -132,6 +132,18 @@ To see the logs when something went wrong, run the following command:
 ```
 </details>
 
+## Special Events
+
+The special events used in the app are:
+
+- `add user`: add user to chat with a username.
+- `login`: shows welcome message and how many participants there are.
+- `user joined`: sends a message to all other users that there is a new user present
+- `user left`: shows a message that a user left the chat and how many participants remained in the chat.
+- `typing`: shows a message that a user is typing
+- `stop typing`: removes the message that a user is typing
+- `new message`: shows a new message and checks if the user used a shortcut. If the user did use a shortcut only the message behind the shortcut is visible for all other users and the shortcut message is also visible for the user who send it.
+
 ## Sources
 
 The sources I used the most during the development of the app are:
