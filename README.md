@@ -34,6 +34,7 @@ This app is a chat with the unique feature that users can use shortcuts to write
 * [Installation](#Installation)
   * [Development](#Development)
   * [Production](#Production)
+* [Special Events](#Special-Events)
 * [Sources](#Sources)
 * [Credits](#Credits)
 
