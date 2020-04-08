@@ -1,7 +1,7 @@
 # Real-Time Web @cmda-minor-web · 2019-2020 Basic Chat App
 
 <p align="center">
-  <a href="https://fathomless-ravine-79514.herokuapp.com/">
+  <a href="https://basic-chat-app-rtw-1920.herokuapp.com/">
     <img src="https://img.shields.io/badge/demo-LIVE-brightgreen.svg?style=flat-square" alt="Demo">
   </a>
   &nbsp;&nbsp;&nbsp;
