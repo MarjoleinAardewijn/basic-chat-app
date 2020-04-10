@@ -34,7 +34,7 @@ This app is a chat with the unique feature that users can use shortcuts to write
 * [Installation](#Installation)
   * [Development](#Development)
   * [Production](#Production)
-* [Special Events](#Special-Events)
+* [Custom Events](#Custom-Events)
 * [Sources](#Sources)
 * [Credits](#Credits)
 
@@ -133,9 +133,9 @@ To see the logs when something went wrong, run the following command:
 ```
 </details>
 
-## Special Events
+## Custom Events
 
-The special events used in the app are:
+The custom events used in the app are:
 
 - `add user`: add user to chat with a username.
 - `login`: shows welcome message and how many participants there are.
